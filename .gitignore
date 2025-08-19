@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Python venv
+.venv/
+__pycache__/
+
+# Vite/Build
+dist/
+frontend/dist/
+
+# Editor
+.vscode/
+.idea/
+
+# App data
+backend/data/db.json
+backend/data/uploads/
+storage/
+tmp/
