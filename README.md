@@ -5,7 +5,7 @@
 
 ## 🚀 Don’t just read about it — watch the magic happen! 👇🏻
 <div align="center">
-  <h2> blah blah link blah blah </h2>
+  <h2> [YouTube](https://youtu.be/qFXo3Px90S8?si=-c9WPX5rQZJTzr2B) </h2>
 </div>
 
 ## ✨ CORE MODULES
